@@ -1,1 +1,2 @@
-# paribu_hub_hafta_4_odev_2
+# Paribu Hub - Akıllı Sözleşme & Solidity Practicum
+## Hafta 4 Ödev 2
